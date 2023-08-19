@@ -14,7 +14,7 @@ Install npm packages
 
     npm install
 **Rename .env.example to .env, then set the enviroment variables it to your needs**
-Run it
+## Run it
 
     node index.js
     
